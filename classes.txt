@@ -1,0 +1,10 @@
+n01440764 Fish
+n02102040 Dog
+n02979186 Cassette player
+n03000684 Chain saw
+n03028079 Church
+n03394916 French horn
+n03417042 Garbage truck
+n03425413 Gas pump
+n03445777 Golf ball
+n03888257 Parachute
